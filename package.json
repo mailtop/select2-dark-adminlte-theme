@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mailtop/select2-dark-adminlte-theme#readme",
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0"
+    "grunt-cli": "^1.2.0",
+    "grunt-sass": "^2.0.0"
   }
 }
