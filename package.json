@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mailtop/select2-dark-adminlte-theme/issues"
   },
-  "homepage": "https://github.com/mailtop/select2-dark-adminlte-theme#readme"
+  "homepage": "https://github.com/mailtop/select2-dark-adminlte-theme#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
 }
