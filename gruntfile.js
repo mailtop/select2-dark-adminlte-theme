@@ -8,7 +8,7 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'dist/theme.min.css': [
+          'dist/select2-adminlte.min.css': [
             'src/scss/layout.scss'
           ]
         }
@@ -18,7 +18,7 @@ module.exports = function(grunt) {
           outputStyle: 'nested'
         },
         files: {
-          'dist/theme.css': [
+          'dist/select2-adminlte.css': [
             'src/scss/layout.scss'
           ]
         }
