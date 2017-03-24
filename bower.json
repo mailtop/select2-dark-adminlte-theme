@@ -1,7 +1,7 @@
 {
   "name": "select2-dark-adminlte-theme",
   "description": "A css theme for Select2 based on AdminLTE 2 dark template",
-  "main": "dist/select2-adminlte.css",
+  "main": "select2-adminlte.css",
   "authors": [
     "Scotto"
   ],

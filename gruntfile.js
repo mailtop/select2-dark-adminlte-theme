@@ -8,7 +8,7 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'dist/select2-adminlte.min.css': [
+          'select2-adminlte.min.css': [
             'src/scss/layout.scss'
           ]
         }
@@ -18,13 +18,13 @@ module.exports = function(grunt) {
           outputStyle: 'nested'
         },
         files: {
-          'dist/select2-adminlte.css': [
+          'select2-adminlte.css': [
             'src/scss/layout.scss'
           ]
         }
       }
     }
   });
-  
+
   grunt.registerTask('default', ['sass']);
 };
