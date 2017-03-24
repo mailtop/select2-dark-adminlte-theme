@@ -1,0 +1,22 @@
+{
+  "name": "select2-dark-adminlte-theme",
+  "description": "A css theme for Select2 based on AdminLTE 2 dark template",
+  "main": "dist/select2-adminlte.css",
+  "authors": [
+    "Scotto"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "select2",
+    "theme",
+    "adminlte"
+  ],
+  "homepage": "https://github.com/mailtop/select2-dark-adminlte-theme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
